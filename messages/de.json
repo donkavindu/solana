@@ -1,0 +1,71 @@
+{
+  "Index": {
+    "navLink": {
+      "home": "Inicio",
+      "blog": "Blog"
+    },
+
+    "hero": {
+      "title": "Potenciador de Volumen Solana",
+      "description": "Aumente el volumen de su token Solana. Una herramienta esencial para proyectos de criptomonedas que buscan mejorar su presencia en el mercado dentro del ecosistema Solana, nuestras soluciones automatizadas facilitan aumentos significativos en el volumen de comercio, asegurando mayor visibilidad e interés de los inversores.",
+      "contectUs": "CONTÁCTENOS"
+    },
+
+    "heroBanner": {
+      "title": "¡El Potenciador de Volumen Solana está en Vivo!",
+      "subTitle": "¡Aumente el Volumen y Atraiga Más Inversores!",
+      "paragragh": "El Potenciador de Volumen Solana es su puerta exclusiva para mejorar el éxito de su proyecto en la cadena Solana. Aumente la visibilidad y la actividad comercial de su token para atraer a más inversores.",
+      "button": "Comprar el Bot"
+    },
+    "bannerText": {
+      "titleB": "Hub Innovador",
+      "title": " en la Red de Solana",
+      "subTitleB": "Explore soluciones de vanguardia para proyectos basados en Solana.",
+      "subTitle": "Ofreciendo herramientas automatizadas, bots de aumento de volumen, conocimientos estratégicos y un sólido apoyo comunitario para optimizar el comercio y elevar los lanzamientos de proyectos.",
+      "button": "APRENDER MÁS"
+    },
+    "discoverBanner": {
+      "titleB": "Descubra",
+      "title": " Nuestros Servicios Principales",
+      "subTitle": "Mejore fácilmente su experiencia comercial con nuestra suite completa de herramientas innovadoras. Desde gráficos impulsados por IA hasta bots de aumento de volumen y recaudación de fondos para proyectos, nuestros servicios cubren todo lo que necesita para sobresalir en el ecosistema Solana."
+    },
+    "bots": {
+      "bot1": {
+        "title": "Paquete Básico:",
+        "subLink1": "Una billetera",
+        "subLink2": "Sin orden ni demora aleatoria",
+        "paragraph": "El Paquete Básico ofrece funciones esenciales de aumento de volumen sin complejidad, perfecto para principiantes.",
+        "button": "LEER MÁS"
+      },
+      "bot2": {
+        "title": "Paquete Estándar:",
+        "subLink1": "Una billetera",
+        "subLink2": "Tamaño de orden aleatorio",
+        "subLink3": "Demora aleatoria",
+        "paragraph": "El Paquete Estándar ofrece mayor flexibilidad con tamaños de orden y demoras aleatorias, ideal para estrategias comerciales dinámicas.",
+        "button": "LEER MÁS"
+      },
+      "bot3": {
+        "title": "Paquete Avanzado:",
+        "subLink1": "Múltiples billeteras",
+        "subLink2": "Tamaño de orden aleatorio",
+        "subLink3": "Demora aleatoria",
+        "paragraph": "El Paquete Avanzado ofrece las funciones de aumento de volumen más avanzadas con múltiples billeteras.",
+        "button": "LEER MÁS"
+      }
+    },
+    "unlock": {
+      "titleB": "Desbloquee el Potencial",
+      "title": " del Potenciador de Volumen Solana",
+      "paragraph": "Explore los amplios beneficios del Potenciador de Volumen Solana",
+      "button": "EXPLORAR BENEFICIOS"
+    },
+    "community": {
+      "titleB": "Únase a la",
+      "title": " Comunidad",
+      "TitleBB": "de Volumen Solana",
+      "paragraph": "Participe en una red dinámica de traders y desarrolladores en nuestra Comunidad de Volumen Solana. Este es su centro para discusiones, actualizaciones y oportunidades de colaboración. Conéctese con otros entusiastas en nuestro grupo dedicado de Telegram. ¿Listo para sumergirse?.",
+      "button": "UNIRSE AL CANAL DE TELEGRAM"
+    }
+  }
+}

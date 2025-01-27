@@ -1,0 +1,71 @@
+{
+  "Index": {
+    "navLink": {
+      "home": "主页",
+      "blog": "博客"
+    },
+
+    "hero": {
+      "title": "Solana 量子提升器",
+      "description": "增强您的 Solana 代币的量子。作为加密项目的必备工具，旨在增强其在 Solana 生态系统中的市场存在感，我们的自动化解决方案促进了交易量的显着增加，确保更高的可见性和投资者兴趣。",
+      "contectUs": "联系我们"
+    },
+
+    "heroBanner": {
+      "title": "Solana 量子提升器上线啦！",
+      "subTitle": "增加交易量，吸引更多投资者！",
+      "paragragh": "Solana 量子提升器是您在 Solana 链上提升项目成功的独家通道。提升您的代币的可见性和交易活动，吸引更多投资者。",
+      "button": "购买机器人"
+    },
+    "bannerText": {
+      "titleB": "创新",
+      "title": " Solana 网络中心",
+      "subTitleB": "探索 Solana 项目的尖端解决方案。",
+      "subTitle": "提供自动化工具、量子提升机器人、战略洞察力以及强大的社区支持，以优化交易并提升项目启动。",
+      "button": "了解更多"
+    },
+    "discoverBanner": {
+      "titleB": "发现",
+      "title": " 我们的核心服务",
+      "subTitle": "轻松增强您的交易体验，使用我们的全面工具套件。从 AI 驱动的图表到量子提升机器人和项目筹资，我们的服务涵盖了您在 Solana 生态系统中取得成功所需的一切。"
+    },
+    "bots": {
+      "bot1": {
+        "title": "基本套餐：",
+        "subLink1": "一个钱包",
+        "subLink2": "没有随机订单或延迟",
+        "paragraph": "基本套餐提供了基本的量子提升功能，没有复杂性，非常适合新手。",
+        "button": "了解更多"
+      },
+      "bot2": {
+        "title": "标准套餐：",
+        "subLink1": "一个钱包",
+        "subLink2": "随机订单大小",
+        "subLink3": "随机延迟",
+        "paragraph": "标准套餐提供了增强的灵活性，随机订单大小和延迟，非常适合动态交易策略。",
+        "button": "了解更多"
+      },
+      "bot3": {
+        "title": "高级套餐：",
+        "subLink1": "多个钱包",
+        "subLink2": "随机订单大小",
+        "subLink3": "随机延迟",
+        "paragraph": "高级套餐提供了最先进的量子提升功能，具有多个钱包。",
+        "button": "了解更多"
+      }
+    },
+    "unlock": {
+      "titleB": "释放潜力",
+      "title": "Solana 量子提升器的潜力",
+      "paragraph": "探索 Solana 量子提升器的广泛优势",
+      "button": "探索优势"
+    },
+    "community": {
+      "titleB": "加入 Solana",
+      "title": " 量子",
+      "TitleBB": "社区",
+      "paragraph": "在我们的 Solana 量子社区中与一群充满活力的交易者和开发者互动。这是您讨论、更新和合作机会的中心。在我们专用的电报群中与其他爱好者联系。准备好了吗？",
+      "button": "加入电报频道"
+    }
+  }
+}

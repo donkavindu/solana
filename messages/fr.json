@@ -1,0 +1,71 @@
+{
+  "Index": {
+    "navLink": {
+      "home": "Accueil",
+      "blog": "Blog"
+    },
+
+    "hero": {
+      "title": "Boosteur de Volume Solana",
+      "description": "Augmentez le volume de votre token Solana. Un outil essentiel pour les projets crypto cherchant à améliorer leur présence sur le marché au sein de l'écosystème Solana, nos solutions automatisées facilitent des augmentations significatives du volume de trading, assurant une plus grande visibilité et un intérêt accru des investisseurs.",
+      "contectUs": "CONTACTEZ-NOUS"
+    },
+
+    "heroBanner": {
+      "title": "Le Boosteur de Volume Solana est en ligne!",
+      "subTitle": "Augmentez le volume et attirez plus d'investisseurs!",
+      "paragragh": "Le Boosteur de Volume Solana est votre passerelle exclusive pour améliorer le succès de votre projet sur la chaîne Solana. Augmentez la visibilité et l'activité de trading de votre token pour attirer plus d'investisseurs.",
+      "button": "Acheter le Bot"
+    },
+    "bannerText": {
+      "titleB": "Hub Innovant",
+      "title": " dans le Réseau Solana",
+      "subTitleB": "Explorez des solutions de pointe pour les projets basés sur Solana.",
+      "subTitle": "Offrant des outils automatisés, des bots d'augmentation de volume, des insights stratégiques et un soutien communautaire robuste pour optimiser le trading et élever les lancements de projets.",
+      "button": "EN SAVOIR PLUS"
+    },
+    "discoverBanner": {
+      "titleB": "Découvrez",
+      "title": " Nos Services Principaux",
+      "subTitle": "Améliorez facilement votre expérience de trading avec notre suite complète d'outils innovants. Des graphiques alimentés par l'IA aux bots d'augmentation de volume et à la levée de fonds pour les projets, nos services couvrent tout ce dont vous avez besoin pour exceller dans l'écosystème Solana."
+    },
+    "bots": {
+      "bot1": {
+        "title": "Forfait Basique:",
+        "subLink1": "Un portefeuille",
+        "subLink2": "Pas de commande aléatoire ou de délai",
+        "paragraph": "Le Forfait Basique offre des fonctionnalités essentielles d'augmentation de volume sans complexité, parfait pour les débutants.",
+        "button": "EN SAVOIR PLUS"
+      },
+      "bot2": {
+        "title": "Forfait Standard:",
+        "subLink1": "Un portefeuille",
+        "subLink2": "Taille de commande aléatoire",
+        "subLink3": "Délai aléatoire",
+        "paragraph": "Le Forfait Standard offre une flexibilité accrue avec des tailles de commande et des délais aléatoires, idéal pour des stratégies de trading dynamiques.",
+        "button": "EN SAVOIR PLUS"
+      },
+      "bot3": {
+        "title": "Forfait Avancé:",
+        "subLink1": "Multiples portefeuilles",
+        "subLink2": "Taille de commande aléatoire",
+        "subLink3": "Délai aléatoire",
+        "paragraph": "Le Forfait Avancé offre les fonctionnalités les plus avancées d'augmentation de volume avec plusieurs portefeuilles.",
+        "button": "EN SAVOIR PLUS"
+      }
+    },
+    "unlock": {
+      "titleB": "Déverrouillez le Potentiel",
+      "title": " du Boosteur de Volume Solana",
+      "paragraph": "Explorez les vastes avantages du Boosteur de Volume Solana",
+      "button": "EXPLORER LES AVANTAGES"
+    },
+    "community": {
+      "titleB": "Rejoignez la",
+      "title": " Communauté",
+      "TitleBB": "de Volume Solana",
+      "paragraph": "Engagez-vous avec un réseau dynamique de traders et de développeurs dans notre Communauté de Volume Solana. C'est votre hub pour des discussions, des mises à jour et des opportunités de collaboration. Connectez-vous avec d'autres passionnés sur notre groupe Telegram dédié. Prêt à plonger dedans?.",
+      "button": "REJOINDRE LE CANAL TELEGRAM"
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "Index": {
+    "navLink": {
+      "home": "Home",
+      "blog": "Blog"
+    },
+
+    "hero": {
+      "title": "Solana Volume Booster",
+      "description": "Boost Your Solana Token's Volume. An essential tool for crypto projects looking to enhance their market presence within the Solana ecosystem, our automated solutions facilitate significant trading volume increases, securing higher visibility and investor interest.",
+      "contectUs": "CONTACT US"
+    },
+
+    "heroBanner": {
+      "title": "Solana Volume Booster is Live!",
+      "subTitle": "Increase Volume and Attract More Investors!",
+      "paragragh": "Solana Volume Booster is your exclusive gateway to enhancing your project's success on the Solana chain. Boost your token's visibility and trading activity to attract more investors..",
+      "button": "Buy the Bot"
+    },
+    "solanaProducts": {
+      "titleA": "Solana",
+      "titleB": "Volume Booster"
+    },
+    "bannerText": {
+      "titleB": "Innovative ",
+      "title": " Hub in Solana's Network",
+      "subTitleB": "Explore cutting-edge solutions for Solana-based projects.",
+      "subTitle": " Offering automated tools, volume boosting bots, strategic insights, and robust community support to optimize trading and elevate project launches.",
+      "button": "LEARN MORE"
+    },
+    "discoverBanner": {
+      "titleB": "Discover ",
+      "title": " Our Core Services",
+      "subTitle": "Effortlessly enhance your trading experience with boosting bots suite of innovative our comprehensive suite of tools. From AI-powered charting to volume boosting bots and project fundraising, our services cover all you need to excel in the Solana ecosystem."
+    },
+    "solanaVolumeBoosters": {
+      "titleB": "Solana ",
+      "title": " Volume Bosters"
+    },
+    "bots": {
+      "bot1": {
+        "title": "Basic Package:",
+        "subLink1": "One wallet",
+        "subLink2": "No random orders size",
+        "subLink3": "No random delay",
+        
+        "button": "READ MORE"
+      },
+      "bot2": {
+        "title": "Standard Package:",
+        "subLink1": "One wallet",
+        "subLink2": "Random order size",
+        "subLink3": "Random delay",
+        "button": "READ MORE"
+      },
+      "bot3": {
+        "title": "Advanced Package:",
+        "subLink1": "Multiple wallets",
+        "subLink2": "Random order size",
+        "subLink3": "Random delay",
+        "button": "READ MORE"
+      }
+    },
+    "unlock": {
+      "titleB": "Unlock the Potential",
+      "title": " of Solana Volume Booster",
+      "paragraph": "Explore the expansive benefits of the Solana Volume Booster",
+      "button": "EXPLORE BENEFITS"
+    },
+    "community": {
+      "titleB": "Join Solana",
+      "title": " Volume ",
+      "TitleBB": "Community",
+      "paragraph": "Engage with a vibrant network of traders and developers in our Solana Volume Community. This is your hub for discussions, updates, and collaborative opportunities. Connect with fellow enthusiasts on our dedicated Telegram group. Ready to dive in?.",
+      "button": "JOIN TELEGRAM CHANNEL"
+    }
+  }
+}
