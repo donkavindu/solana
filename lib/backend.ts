@@ -104,6 +104,21 @@ export async function fetchProductsById({ id }: { id: string }) {
     return { error: "Fetch failed" };
   }
 }
+export const fetchCategories = async () => {
+  try {
+    const response = await fetch(`${process.env.BACKEND}/blogscategories?populate=*`);
+    if (!response.ok) {
+      throw new Error("Failed to fetch categories");
+    }
+    const data = await response.json();
+    const categoryNames = data.data.map((category: any) => category.attributes.category);
+    return ["All", ...categoryNames]; // Add "All" as the default category
+  } catch (error) {
+    console.error("Error fetching categories:", error);
+    return ["All"]; // Return "All" as the fallback
+  }
+};
+
 
 // sitemap
 export async function fetchSiteMapBlogs() {
